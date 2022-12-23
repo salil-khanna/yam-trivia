@@ -35,7 +35,6 @@ const GameRunning = ({questions, gameOver, seconds, answers}) => {
                 scoreVal = 30
             }
 
-
             setScore(score + scoreVal)
         }
         setQuestionsAnswered(questionsAnswered + 1)

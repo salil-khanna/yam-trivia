@@ -15,8 +15,18 @@ const Game = () => {
 
     function gameOver(score) {
 
-        setScore(score)
-        setGameRunning(false)
+        if (score !== 0) {
+            setTimeout(() => {
+                setScore(score)
+                setGameRunning(false)
+            }
+            , 750)
+        } else {
+            setScore(score)
+            setGameRunning(false)
+        }
+        
+
 
     }
 

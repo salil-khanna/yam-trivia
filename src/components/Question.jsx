@@ -30,19 +30,6 @@ const Question = ({question, index, checkAnswer, answers}) => {
         }
     }
 
-    // // funnction for generating button color , takes in the answer and the correct answer and returns a color
-    // function buttonColor(answer, correctAnswer) {
-    //     if (answered) {
-    //         if (answer === correctAnswer) {
-    //             return "success"
-    //         } else {
-    //             return "error"
-    //         }
-    //     } else {
-    //         return "primary"
-    //     }
-    // }
-
     return (
         <div>
             
