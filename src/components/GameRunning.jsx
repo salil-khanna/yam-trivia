@@ -22,7 +22,7 @@ const GameRunning = ({questions, gameOver, seconds, answers}) => {
     // useEffect to check if all questions have been answered
     useEffect(() => {
         if (timer === 0 || questionsAnswered === questions.length) {
-            gameOver(score)
+            gameOver(score, questionsAnswered)
         }
     }, [gameOver, questions.length, questionsAnswered, score, timer])
     
@@ -45,7 +45,7 @@ const GameRunning = ({questions, gameOver, seconds, answers}) => {
         {/* end game button */}
         <h2>Game has Started! </h2>
         <h3>{timer} seconds left... </h3>
-        <button onClick={() => gameOver(score)}>End Game</button>
+        <button onClick={() => gameOver(score, questionsAnswered)}>End Game</button>
 
         
         {/* for each question in questions print out the question */}

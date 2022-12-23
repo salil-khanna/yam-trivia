@@ -13,9 +13,9 @@ const Game = () => {
     const [questions, setQuestions] = useState([])
     const [answers, setAnswers] = useState([])
 
-    function gameOver(score) {
+    function gameOver(score, questionsAnswered) {
 
-        if (score !== 0) {
+        if (questionsAnswered === questions.length) {
             setTimeout(() => {
                 setScore(score)
                 setGameRunning(false)
