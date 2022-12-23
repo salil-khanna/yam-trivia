@@ -1,0 +1,453 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+      "correct_answer": "Link",
+      "incorrect_answers": ["Mario", "Zelda", "Pit"]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Snakes and Ladders was originally created in India?",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many spaces are there on a standard Monopoly board?",
+      "correct_answer": "40",
+      "incorrect_answers": ["28", "55", "36"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+      "correct_answer": "Tog II",
+      "incorrect_answers": ["M4 Sherman", "Tiger H1", "T-34"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game did NOT get financed via Crowdfunding?",
+      "correct_answer": "Enter the Gungeon",
+      "incorrect_answers": ["Town of Salem", "Undertale", "Tower Unite"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "San Marino is the only country completely surrounded by another country.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the creator of the comic series &quot;The Walking Dead&quot;?",
+      "correct_answer": "Robert Kirkman",
+      "incorrect_answers": [
+        "Stan Lee",
+        "Malcolm Wheeler-Nicholson",
+        "Robert Crumb"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which sign of the zodiac is represented by the Crab?",
+      "correct_answer": "Cancer",
+      "incorrect_answers": ["Libra", "Virgo", "Sagittarius"]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Spitfire originated from a racing plane.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Russian oblast forms a border with Poland?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": ["Samara", "Nizhny Novgorod", "Omsk"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "correct_answer": ".svg",
+      "incorrect_answers": [".png", ".jpeg", ".gif"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;Half-Life 2&quot; runs on the Source Engine.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In web design, what does CSS stand for?",
+      "correct_answer": "Cascading Style Sheet",
+      "incorrect_answers": [
+        "Counter Strike: Source",
+        "Corrective Style Sheet",
+        "Computer Style Sheet"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country has hosted the 2018 FIFA World Cup?",
+      "correct_answer": "Russia",
+      "incorrect_answers": ["Germany", "United States", "Saudi Arabia"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2015 Formula 1 World Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": ["Nico Rosberg", "Sebastian Vettel", "Jenson Button"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The asteroid belt is located between which two planets?",
+      "correct_answer": "Mars and Jupiter",
+      "incorrect_answers": [
+        "Jupiter and Saturn",
+        "Mercury and Venus",
+        "Earth and Mars"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In DuckTales, what is the name of the city where all the main characters live?",
+      "correct_answer": "Duckburg",
+      "incorrect_answers": ["Duckwing", "Tailspin", "Wingford"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+      "correct_answer": "Blue Sky",
+      "incorrect_answers": ["Baby Blue", "Rock Candy", "Pure Glass"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+      "correct_answer": "Mega Man",
+      "incorrect_answers": [
+        "Super Mario Brothers",
+        "Alex Kidd",
+        "Super Monkey Ball"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+      "correct_answer": "The Cure",
+      "incorrect_answers": [
+        "The Smiths",
+        "Echo &amp; the Bunnymen",
+        "New Order"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the United States Constitution, how old must a person be to be elected President of the United States?",
+      "correct_answer": "35",
+      "incorrect_answers": ["30", "40", "45"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What team won the 2016 MLS Cup?",
+      "correct_answer": "Seattle Sounders",
+      "incorrect_answers": ["Colorado Rapids", "Toronto FC", "Montreal Impact"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+      "correct_answer": "Laura Brehm",
+      "incorrect_answers": ["Anna Yvette ", "Danyka Nadeau", "Veela"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following countries was not an axis power during World War II?",
+      "correct_answer": " Soviet Union",
+      "incorrect_answers": ["Italy", "Germany", "Japan"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+      "correct_answer": "J.K. Simmons",
+      "incorrect_answers": [
+        "Nolan North",
+        "John Patrick Lowrie",
+        "Christopher Lloyd"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
+      "correct_answer": "Eddie the Mean Old Yeti",
+      "incorrect_answers": ["Kiddy Kong", "Diddy Kong", "King K. Rool"]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Killer Whale is considered a type of dolphin.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the unit of electrical resistance?",
+      "correct_answer": "Ohm",
+      "incorrect_answers": ["Mho", "Tesla", "Joule"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following songs did Elton John perform following Princess Diane&#039;s passing?",
+      "correct_answer": "Candles in the Wind",
+      "incorrect_answers": [
+        "I Guess That&#039;s Why They Call It The Blues",
+        "Your Song",
+        "Island Girl"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which ocean borders the west coast of the United States?",
+      "correct_answer": "Pacific",
+      "incorrect_answers": ["Atlantic", "Indian", "Arctic"]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Neil Hamburger is played by which comedian?",
+      "correct_answer": "Gregg Turkington",
+      "incorrect_answers": ["Nathan Fielder", "Tim Heidecker", "Todd Glass"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the first ever actor to play &quot;The Doctor&quot; on &quot;Doctor Who&quot;?",
+      "correct_answer": "William Hartnell",
+      "incorrect_answers": ["David Tennant", "Peter Capaldi", "Tom Baker"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first game in the &quot;Battlefield&quot; series?",
+      "correct_answer": "Battlefield 1942",
+      "incorrect_answers": [
+        "Battlefield Vietnam",
+        "Battlefield 2",
+        "Battlefield 1"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Zodiac symbol for Gemini?",
+      "correct_answer": "Twins",
+      "incorrect_answers": ["Fish", "Scales", "Maiden"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In bowling, what is the term used for getting three consecutive strikes?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": ["Flamingo", "Birdie", "Eagle"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Manchester United&#039;s home stadium?",
+      "correct_answer": "Old Trafford",
+      "incorrect_answers": [
+        "Anfield",
+        "City of Manchester Stadium",
+        "St James Park"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+      "correct_answer": "Vietnam War",
+      "incorrect_answers": ["World War 2", "World War 1", "Cold War"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Codemasters is the developer of the Gran Turismo series.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+        "Sebastian Vettel",
+        "Nico Rosberg",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the famous Papa John&#039;s last name?",
+      "correct_answer": "Schnatter",
+      "incorrect_answers": ["Chowder", "Williams", "ANDERSON"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video game, Half-life, what event started the Half-life universe as we know today?",
+      "correct_answer": "The Resonance Cascade",
+      "incorrect_answers": [
+        "World War 3",
+        "The Xen Attack",
+        "The Black Mesa Nuke"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+      "correct_answer": "Nokia Tune",
+      "incorrect_answers": [
+        "Hello Moto [Motorola Ringtone]",
+        "Droid Ringtone",
+        "Microsoft Ringtone"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world? ",
+      "correct_answer": "Minecraft",
+      "incorrect_answers": ["Unturned", "Roblox", "Grand Theft Auto V"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which year was the album &quot;Year of the Snitch&quot; by Death Grips released?",
+      "correct_answer": "2018",
+      "incorrect_answers": ["2013", "2017", "2011"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the first American in space?",
+      "correct_answer": "Alan Shephard",
+      "incorrect_answers": ["Neil Armstrong", "John Glenn", "Jim Lovell"]
+    }
+  ]
+}
