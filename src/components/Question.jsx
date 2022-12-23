@@ -20,9 +20,9 @@ const Question = ({question, index, checkAnswer, answers}) => {
                 newColors[index] = "error"
                 setButtonColors(newColors)
             } 
-            var index = answers.indexOf(question.correct_answer)
+            var id = answers.indexOf(question.correct_answer)
             var nC = buttonColors
-            nC[index] = "success"
+            nC[id] = "success"
             setButtonColors(nC)
 
             checkAnswer(answer, question.correct_answer, question.difficulty)
