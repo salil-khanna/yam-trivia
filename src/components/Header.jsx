@@ -4,7 +4,7 @@ import '../css/Header.css'
 function Header() {
   return (
     // center the div
-    <div class="centered">
+    <div className="centered">
         <h1> Yam!: Trivia For Fun </h1>
     </div>
 

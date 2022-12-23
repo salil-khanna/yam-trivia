@@ -8,11 +8,10 @@ const Game = () => {
     const [firstGame, setFirstGame] = useState(true)
     const [gameRunning, setGameRunning] = useState(false)
 
-    const [numQuestions, setNumQuestions] = useState(25)
-
     const [score, setScore] = useState(0)
     const [timer, setTimer] = useState('')
     const [questions, setQuestions] = useState([])
+    const [answers, setAnswers] = useState([])
 
     function gameOver(score) {
 
@@ -23,7 +22,6 @@ const Game = () => {
 
     async function gameStart(numQ, difficulty, category, seconds) {
 
-        setNumQuestions(numQ)
         setScore(0)
         setTimer(seconds)
 
@@ -45,6 +43,16 @@ const Game = () => {
             .then(response => response.json())
             .then(data => {
                 setQuestions(data.results)
+
+                var answers = []
+                data.results.forEach(question => {
+                    var thisQ = question.incorrect_answers.concat(question.correct_answer)
+                    thisQ.sort(() => Math.random() - 0.5)
+                    answers.push(thisQ)
+                })
+                
+                setAnswers(answers)
+
             })
 
         setFirstGame(false)
@@ -68,6 +76,7 @@ const Game = () => {
                 questions={questions} 
                 gameOver={gameOver} 
                 seconds={timer}
+                answers={answers}
             /> 
             : 
             <GameStart 

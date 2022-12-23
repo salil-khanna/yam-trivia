@@ -15,7 +15,6 @@ const GameStart = ({gameStartFunction, firstGame, score}) => {
 
     function hitButton () {
         setPlayHit(true)
-        console.log(timer)
         gameStartFunction(numQuestions, difficulty, category, timer)
     }
 

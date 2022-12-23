@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import Question from './Question'
 
-const GameRunning = ({questions, gameOver, seconds}) => {
+const GameRunning = ({questions, gameOver, seconds, answers}) => {
     const [score, setScore] = useState(0)
     const [questionsAnswered, setQuestionsAnswered] = useState(0)
 
@@ -41,7 +41,6 @@ const GameRunning = ({questions, gameOver, seconds}) => {
         setQuestionsAnswered(questionsAnswered + 1)
     }
 
-
   return (
     <div>
         {/* end game button */}
@@ -57,7 +56,7 @@ const GameRunning = ({questions, gameOver, seconds}) => {
         {questions.map((question, index) => {
             return (
                 <div key={index}>
-                    <Question question={question} index={index} checkAnswer={checkAnswer} />
+                    <Question question={question} index={index} checkAnswer={checkAnswer} answers={answers[index]}/>
                 </div>
             )
         })}
